@@ -2,7 +2,7 @@
 
 # 👋 &nbsp;Hi there
 
-Hey there, I'm Houda Khadiri. I'm a Master’s student in Artificial Intelligence and Virtual Reality, with a passion for deep learning, computer vision, and formal verification of neural networks. I'm always excited about applying AI to real-world problems and advancing research in these fields. Check out my work
+I'm a Master’s student specializing in Artificial Intelligence and Virtual Reality. My passion lies in the fields of deep learning, computer vision, and formal verification of neural networks. I enjoy applying AI to solve real-world challenges, and I am constantly learning and expanding my knowledge in this ever-evolving field.
 
 ## 🧰 &nbsp;My toolbox
 
