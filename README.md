@@ -20,6 +20,7 @@ Feel free to check out my projects, and let’s connect if you're interested in 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
 <br>
 <br>
+<br>
 
 ### 🖥️ Programming Languages & Frameworks
 
@@ -37,7 +38,7 @@ Feel free to check out my projects, and let’s connect if you're interested in 
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-
+<br>
 ### 📊 Data Science & Machine Learning
 
 <p align="left">
@@ -52,7 +53,7 @@ Feel free to check out my projects, and let’s connect if you're interested in 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-
+<br>
 ### 🛠️ Software and Tools
 
 <p align="left">
@@ -66,7 +67,7 @@ Feel free to check out my projects, and let’s connect if you're interested in 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
-
+<br>
 ### 🗄️ Databases
 
 <p align="left">
@@ -75,7 +76,7 @@ Feel free to check out my projects, and let’s connect if you're interested in 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-
+<br>
 ### 🌟 Other
 
 <p align="left">
@@ -87,7 +88,7 @@ Feel free to check out my projects, and let’s connect if you're interested in 
   <img src="https://img.shields.io/badge/Data_Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Agile-2C2255?style=for-the-badge&logo=tool&logoColor=white"/>
 </p>
-
+<br>
 
 
 
