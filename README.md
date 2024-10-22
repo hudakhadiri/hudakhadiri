@@ -1,8 +1,4 @@
-
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/hudakhadiri/hudakhadiri/raw/master/hello.gif)
-
-
-
+![Hey there, I'm Houda. I'm passionate about AI, deep learning, and computer vision. Check out my work!](https://github.com/hudakhadiri/hudakhadiri/raw/main/hello.gif)
 
 # 👋 &nbsp;Hi there
 
