@@ -53,7 +53,7 @@ Feel free to check out my projects, and let’s connect if you're interested in 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-<br>
+
 ### 🛠️ Software and Tools
 
 <p align="left">
@@ -67,7 +67,7 @@ Feel free to check out my projects, and let’s connect if you're interested in 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
-<br>
+
 ### 🗄️ Databases
 
 <p align="left">
@@ -76,7 +76,7 @@ Feel free to check out my projects, and let’s connect if you're interested in 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-<br>
+
 ### 🌟 Other
 
 <p align="left">
