@@ -38,7 +38,7 @@ Feel free to check out my projects, and let’s connect if you're interested in 
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-<br>
+
 ### 📊 Data Science & Machine Learning
 
 <p align="left">
