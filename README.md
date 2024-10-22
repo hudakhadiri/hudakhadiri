@@ -4,9 +4,8 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@Sudo_Overflow](https://twitter.com/sudo_overflow). Feel free to tweet me any time. You can also check out my website [Cyris.io](https://Cyris.io) for my blog and more.
+Hey there, I'm Houda Khadiri. I'm a Master’s student in Artificial Intelligence and Virtual Reality, with a passion for deep learning, computer vision, and formal verification of neural networks. I'm always excited about applying AI to real-world problems and advancing research in these fields. Check out my work
 
-&nbsp;
 
 ## 👇 &nbsp;Current project
 
