@@ -59,10 +59,10 @@ Feel free to check out my projects, and let’s connect if you're interested in 
 ### 🧪 Formal Verification Tools
 
 <p align="left">
-  <img src="https://example.com/path-to-your-frama-c-logo.svg" alt="Frama-C" width="50" height="50"/> &nbsp;
-  <img src="https://example.com/path-to-your-acsl-logo.svg" alt="ACSL" width="50" height="50"/> &nbsp;
-  <img src="https://example.com/path-to-your-z3-logo.svg" alt="Z3" width="50" height="50"/> &nbsp;
-  <img src="https://example.com/path-to-your-alt-ergo-logo.svg" alt="Alt-Ergo" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Frama_C-000000?style=for-the-badge&logo=tool&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ACSL-007ACC?style=for-the-badge&logo=tool&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Z3-2C2255?style=for-the-badge&logo=tool&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alt_Ergo-000000?style=for-the-badge&logo=tool&logoColor=white"/>
 </p>
 
 <br>
