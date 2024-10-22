@@ -32,8 +32,6 @@ Feel free to check out my projects, and let’s connect if you're interested in 
 
 ### 📊 Data Science and Machine Learning
 
-### 📊 Data Science and Machine Learning
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/> &nbsp;
